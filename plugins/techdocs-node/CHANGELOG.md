@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs-node
 
+## 1.6.0-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+- Updated dependencies
+  - @backstage/backend-common@0.18.3-next.2
+
 ## 1.6.0-next.1
 
 ### Minor Changes

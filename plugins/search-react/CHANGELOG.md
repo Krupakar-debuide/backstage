@@ -1,5 +1,11 @@
 # @backstage/plugin-search-react
 
+## 1.5.1-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+
 ## 1.5.1-next.1
 
 ### Patch Changes

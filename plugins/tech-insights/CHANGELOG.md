@@ -1,5 +1,13 @@
 # @backstage/plugin-tech-insights
 
+## 0.3.8-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.2
+
 ## 0.3.8-next.1
 
 ### Patch Changes

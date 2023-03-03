@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder
 
+## 1.12.0-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+- Updated dependencies
+  - @backstage/plugin-scaffolder-react@1.2.0-next.2
+  - @backstage/plugin-catalog-react@1.4.0-next.2
+  - @backstage/integration-react@1.1.11-next.1
+
 ## 1.12.0-next.1
 
 ### Minor Changes

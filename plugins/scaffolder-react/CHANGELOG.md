@@ -1,5 +1,14 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.2.0-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+- d9893263ba9: scaffolder/next: Fix for steps without properties
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.2
+
 ## 1.2.0-next.1
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-react
 
+## 1.4.0-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+
 ## 1.4.0-next.1
 
 ### Patch Changes

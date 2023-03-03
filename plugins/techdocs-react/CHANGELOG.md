@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs-react
 
+## 1.1.4-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+
 ## 1.1.4-next.1
 
 ### Patch Changes

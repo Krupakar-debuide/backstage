@@ -1,5 +1,13 @@
 # @backstage/plugin-stack-overflow
 
+## 0.1.12-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-react@1.5.1-next.2
+  - @backstage/plugin-home@0.4.32-next.2
+
 ## 0.1.12-next.1
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-org
 
+## 0.6.6-next.2
+
+### Patch Changes
+
+- a06fcac4040: Add styling to the `MembersListCard` and `ComponentsGrid` to handle overflow text.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.2
+
 ## 0.6.6-next.1
 
 ### Patch Changes

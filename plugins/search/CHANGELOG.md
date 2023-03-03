@@ -1,5 +1,14 @@
 # @backstage/plugin-search
 
+## 1.1.1-next.2
+
+### Patch Changes
+
+- 65454876fb2: Minor API report tweaks
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.2
+  - @backstage/plugin-search-react@1.5.1-next.2
+
 ## 1.1.1-next.1
 
 ### Patch Changes
