@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: playback-order
   description: Playback Order
+  version: 1.2.3
   tags:
     - java
     - playback
